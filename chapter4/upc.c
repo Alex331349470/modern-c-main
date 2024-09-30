@@ -16,6 +16,10 @@ int main(void) {
   total = 3 * first_sum + second_sum;
 
   printf("Check digit: %d\n", 9 - ((total - 1) % 10));
+  printf("This is the first time that I can do it without anyone's help but "
+         "the disire let me to do this, I must to be the greatest gamer maker "
+         "in the world and I must learn the english well and coding the C/C++ "
+         "and python well as I'm the one of the master.\n");
 
   return 0;
 }
