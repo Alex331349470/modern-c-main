@@ -8,7 +8,6 @@ int main(void) {
         &j2, &j3, &j4, &j5);
 
   total = 3 * (i1 + i3 + i5 + j1 + j3 + j5) + (i2 + i4 + j2 + j4) - 1;
-
   printf("Check digit: %d\n", 9 - ((total - 1) % 10));
 
   return 0;
