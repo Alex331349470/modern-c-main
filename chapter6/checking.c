@@ -40,5 +40,7 @@ int main(void)
     }
   }
 
+  printf("print the git message!\n");
+  
   return 0;
 }
