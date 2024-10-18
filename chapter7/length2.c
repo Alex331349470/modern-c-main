@@ -8,6 +8,7 @@ typedef int Quantity;
 typedef long int ptrdiff_t;
 typedef unsigned int size_t;
 typedef int wchar_t;
+typedef float float_t;
 
 int main(void)
 {
